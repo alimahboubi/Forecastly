@@ -1,0 +1,15 @@
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/bin/Debug/net8.0/Forecastly.Infrastructure.OpenWeatherMap.deps.json
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/bin/Debug/net8.0/Forecastly.Infrastructure.OpenWeatherMap.dll
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/bin/Debug/net8.0/Forecastly.Infrastructure.OpenWeatherMap.pdb
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/bin/Debug/net8.0/Forecastly.Domain.dll
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/bin/Debug/net8.0/Forecastly.Domain.pdb
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/obj/Debug/net8.0/Forecastly.Infrastructure.OpenWeatherMap.csproj.AssemblyReference.cache
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/obj/Debug/net8.0/Forecastly.Infrastructure.OpenWeatherMap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/obj/Debug/net8.0/Forecastly.Infrastructure.OpenWeatherMap.AssemblyInfoInputs.cache
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/obj/Debug/net8.0/Forecastly.Infrastructure.OpenWeatherMap.AssemblyInfo.cs
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/obj/Debug/net8.0/Forecastly.Infrastructure.OpenWeatherMap.csproj.CoreCompileInputs.cache
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/obj/Debug/net8.0/Forecastly.Infrastructure.OpenWeatherMap.csproj.CopyComplete
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/obj/Debug/net8.0/Forecastly.Infrastructure.OpenWeatherMap.dll
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/obj/Debug/net8.0/refint/Forecastly.Infrastructure.OpenWeatherMap.dll
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/obj/Debug/net8.0/Forecastly.Infrastructure.OpenWeatherMap.pdb
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Infrastructure.OpenWeatherMap/obj/Debug/net8.0/ref/Forecastly.Infrastructure.OpenWeatherMap.dll

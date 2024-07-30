@@ -1,0 +1,11 @@
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Domain/bin/Debug/net8.0/Forecastly.Domain.deps.json
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Domain/bin/Debug/net8.0/Forecastly.Domain.dll
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Domain/bin/Debug/net8.0/Forecastly.Domain.pdb
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Domain/obj/Debug/net8.0/Forecastly.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Domain/obj/Debug/net8.0/Forecastly.Domain.AssemblyInfoInputs.cache
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Domain/obj/Debug/net8.0/Forecastly.Domain.AssemblyInfo.cs
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Domain/obj/Debug/net8.0/Forecastly.Domain.csproj.CoreCompileInputs.cache
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Domain/obj/Debug/net8.0/Forecastly.Domain.dll
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Domain/obj/Debug/net8.0/refint/Forecastly.Domain.dll
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Domain/obj/Debug/net8.0/Forecastly.Domain.pdb
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Domain/obj/Debug/net8.0/ref/Forecastly.Domain.dll

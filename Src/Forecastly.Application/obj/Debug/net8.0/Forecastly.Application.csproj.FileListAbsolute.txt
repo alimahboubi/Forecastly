@@ -1,0 +1,15 @@
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/bin/Debug/net8.0/Forecastly.Application.deps.json
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/bin/Debug/net8.0/Forecastly.Application.dll
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/bin/Debug/net8.0/Forecastly.Application.pdb
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/bin/Debug/net8.0/Forecastly.Domain.dll
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/bin/Debug/net8.0/Forecastly.Domain.pdb
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/obj/Debug/net8.0/Forecastly.Application.csproj.AssemblyReference.cache
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/obj/Debug/net8.0/Forecastly.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/obj/Debug/net8.0/Forecastly.Application.AssemblyInfoInputs.cache
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/obj/Debug/net8.0/Forecastly.Application.AssemblyInfo.cs
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/obj/Debug/net8.0/Forecastly.Application.csproj.CoreCompileInputs.cache
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/obj/Debug/net8.0/Forecastly.Application.csproj.CopyComplete
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/obj/Debug/net8.0/Forecastly.Application.dll
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/obj/Debug/net8.0/refint/Forecastly.Application.dll
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/obj/Debug/net8.0/Forecastly.Application.pdb
+/Users/mahboubi/Documents/Projects/dotNet/sample/Forecastly/Forecastly/Src/Forecastly.Application/obj/Debug/net8.0/ref/Forecastly.Application.dll
